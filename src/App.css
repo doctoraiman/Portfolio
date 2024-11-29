@@ -1,0 +1,7 @@
+/* Add this to your CSS file */
+.text-gradient {
+  background-image: var(--tw-gradient-stops);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
